@@ -6,3 +6,4 @@
 - patch 5 — atlas node — sort spectrum
 - patch 6 — atlas node — sort spectrum
 - patch 7 — atlas node — sort spectrum
+- patch 8 — atlas node — sort spectrum
