@@ -10,3 +10,4 @@
 - patch 11 — atlas node — sort spectrum
 - patch 1 — atlas node — sort spectrum
 - patch 2 — atlas node — sort spectrum
+- patch 3 — atlas node — sort spectrum
