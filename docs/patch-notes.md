@@ -17,3 +17,4 @@
 - patch 7 — atlas node — sort spectrum
 - patch 8 — atlas node — sort spectrum
 - patch 9 — atlas node — sort spectrum
+- patch 10 — atlas node — sort spectrum
